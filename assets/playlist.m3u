@@ -1,0 +1,44 @@
+#EXTM3U name="StreamSutra Starter Catalog" description="Verified Public Domain & Free-to-Air Channels"
+# ==============================================================================
+# StreamSutra — Open-Source Bring-Your-Own-Content (BYOC) Media Player
+# Starter Playlist: Free-to-Air, Creative Commons & Public Service Broadcasters
+#
+# Load your personal M3U / M3U8 IPTV URL, Xtream Codes, or local file anytime
+# via the "⚙️ Sources" menu.
+# ==============================================================================
+
+#EXTINF:-1 tvg-id="NASATV.us@HD" tvg-name="NASA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" group-title="Science & Space",NASA TV HD (1080p)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="DWE.de@HD" tvg-name="DW English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_symbol_2012.svg" group-title="International News",DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="France24EN.fr@HD" tvg-name="France 24 English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/France_24_logo.svg" group-title="International News",France 24 English (1080p)
+https://static.france24.com/live/F24_EN_LO_HLS/live_tv.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraEN.qa@HD" tvg-name="Al Jazeera English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Al_Jazeera_English_logo.svg" group-title="International News",Al Jazeera English (1080p)
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsEN.fr@HD" tvg-name="Euronews English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Euronews_2016_logo.svg" group-title="International News",Euronews English (1080p)
+https://euronews-euronews-world-1-au.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at@HD" tvg-name="Red Bull TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Red_Bull_TV_logo.svg/512px-Red_Bull_TV_logo.svg.png" group-title="Sports & Adventure",Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="DDNews.in@HD" tvg-name="DD News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/DD_News_logo.png" group-title="Indian National",DD News Live (1080p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8383313d03043516dd80f40f36730521035/sansad-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="DDNational.in@HD" tvg-name="DD National" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DD_National_logo.png" group-title="Indian National",DD National Live (1080p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8383313d03043516dd80f40f36730521035/dd-national/master.m3u8
+
+#EXTINF:-1 tvg-id="SansadTV.in@HD" tvg-name="Sansad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Sansad_TV_logo.png" group-title="Indian National",Sansad TV Parliament (1080p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8383313d03043516dd80f40f36730521035/sansad-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="BigBuckBunny.open@HD" tvg-name="Big Buck Bunny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Big_buck_bunny_poster_big.jpg" group-title="Open Cinema (CC-BY)",Big Buck Bunny (4K Animation)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="TearsOfSteel.open@HD" tvg-name="Tears of Steel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Tears_of_Steel_poster.jpg" group-title="Open Cinema (CC-BY)",Tears of Steel (Open Sci-Fi)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
+
+#EXTINF:-1 tvg-id="Sintel.open@HD" tvg-name="Sintel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Sintel_poster.jpg" group-title="Open Cinema (CC-BY)",Sintel (Open Fantasy Movie)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4

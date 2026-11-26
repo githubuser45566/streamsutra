@@ -1,0 +1,28 @@
+# Build artifacts
+build/
+bin/
+gen/
+out/
+*.apk
+*.aab
+*.dex
+*.class
+*.idsig
+
+# Keystore files
+*.keystore
+*.jks
+
+# Runtime diagnostic logs
+*.log
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+.vscode/
+
+# Node dependencies (if any)
+node_modules/
+npm-debug.log*
